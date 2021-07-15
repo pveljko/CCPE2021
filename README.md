@@ -55,3 +55,6 @@ The `results.dat` file is a tab-separated file suitable for processing in R. The
 
 The `comparison.csv` file is a comma separated value file containing the results of comparing networks on their MCC values (details of the procedure available in paper). The group1 and group2 files are the networks being compared, and the crucial values for evaluation are `p.value` and `p.crit` which are the computed p-value and the critical signfiicance value that it needs to be compared with given Holm's correction. 
 
+## Licencing
+
+This repository is licensed under the CC BY 4.0 licence. See the LICENSE file for legal details or [this](https://creativecommons.org/licenses/by/4.0/) for a human-readable summary. 
